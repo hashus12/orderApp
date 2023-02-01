@@ -1,6 +1,6 @@
 # orderApp
 Patika Sipariş uygulaması
-
+```terminal
 PS C:\Development\intellij\orderApp> mvn clean install
 [INFO] Scanning for projects...
 [INFO] 
@@ -207,5 +207,7 @@ Computer:
 Microsoft
 please select the process :
 exit
+```
+
 
 
